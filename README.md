@@ -11,7 +11,7 @@ Preprocesses numerical and categorical features
 
 Trains a regression model to predict movie ratings
 
-Evaluates performance using common metrics
+Evaluates the model using standard performance metrics
 
 Technologies Used
 
@@ -25,4 +25,4 @@ Matplotlib, Seaborn
 
 Output
 
-A trained model that accurately estimates movie ratings based on available features.
+A trained model that accurately predicts movie ratings based on movie features.
