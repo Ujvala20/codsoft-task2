@@ -1,5 +1,5 @@
 # codsoft-task2
-Movie Rating Prediction 
+Movie rating prediction 
 
 This project builds a machine learning model that predicts the rating of an Indian movie using features such as genre, duration, director, actors, and votes. The dataset used is the IMDB India Movies dataset from Kaggle.
 
